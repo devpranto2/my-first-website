@@ -1,2 +1,17 @@
 div{background-color: orange;
 text-align: center;}
+
+.first{color: white;
+background-color: darkcyan;
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+border: 20px solid black;
+margin: 10px;
+border-radius: 10px;}
+
+.first h3{
+    color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
